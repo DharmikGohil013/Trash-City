@@ -1,0 +1,4 @@
+repository "Trash City@dharmik086@cloud"
+  path "/"
+    br "/main"
+    co "/main"
